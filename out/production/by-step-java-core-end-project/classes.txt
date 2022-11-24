@@ -1,0 +1,5 @@
+1,10B,15,Petrova
+2,11A,10,Petrova
+3,3E,30,Ivanova
+4,4R,25,Ivanova
+7,7A,25,Ivanova

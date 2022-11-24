@@ -1,0 +1,4 @@
+1,Ivanov Ivan Ivanovich,10,4R,Ivanova
+2,Ivanov Stepan Ivanovich,9,3E,Ivanova
+3,Sidorov Sidr Yablokovich,15,10B,Petrova
+4,Sidorov Bublik Yablokovich,17,11B,Petrova
